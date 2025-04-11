@@ -1,6 +1,8 @@
 # Python Socket-Based Guessing Game (Client-Server App)
 
-This is a Python-based number guessing game using TCP socket communication. The project consists of a **server** that hosts the game and a **client** that connects to play it. Players guess a randomly generated number between 1 and 100 with feedback after each attempt. Password authentication is required to play.
+- This is a Python-based number guessing game using TCP socket communication. The project consists of a **server** that hosts the game and a **client** that connects to play it. 
+- Players guess a randomly generated number between 1 and 100 with feedback after each attempt.
+- Password authentication is required to play.
 
 ---
 
