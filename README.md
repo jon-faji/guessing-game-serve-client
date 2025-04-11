@@ -26,19 +26,15 @@
 
 ---
 
-## Requirements
-
-- Python 3.x
-- No external libraries needed
-
----
-
 ## How to Run
 
 ### 1. Start the Server
 ```bash
 
+# For a Server
 python server.py
+
+# For a Client
 python client.py
 
 ## Example Output
